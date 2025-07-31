@@ -2,3 +2,7 @@
 
 <p>Pronto tedremos nuevas actualizaciones</p>
 <h1>🚧</h1>
+
+Para ejecutar el sistema, debes colocar:
+
+```npm install react```
